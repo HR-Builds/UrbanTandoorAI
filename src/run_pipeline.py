@@ -7,6 +7,7 @@ steps = [
     "src/export_data.py",
     "src/create_tables.py",
     "src/load_data.py",
+    "src/embed_documents.py",
 ]
 
 for step in steps:
